@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "catul",
   "version": "0.1.0",
-  "identifier": "com.ianca.catool",
+  "identifier": "com.ianca.catul",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "catool",
+        "title": "catul",
         "width": 800,
         "height": 600
       }

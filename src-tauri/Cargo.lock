@@ -423,7 +423,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "catool"
+name = "catul"
 version = "0.1.0"
 dependencies = [
  "serde",
