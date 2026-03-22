@@ -42,13 +42,7 @@ Later (maybe): .docx, .srt, .pdf support, optional MT suggestions, etc.
 ```bash
 # Install frontend dependencies
 npm install
-
-# Start frontend dev server
-npm run dev
-
-# In a separate terminal → start Tauri app (backend + window)
-cd src-tauri
-cargo tauri dev
+npm run tauri dev
 ```
 
 ##### Currently developing with all my heart to create a more friendly and opensource enviroment for translators
