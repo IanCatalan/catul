@@ -8,7 +8,6 @@ Right now it's a basic proof-of-concept: just a dark-mode editor placeholder.
 
 - Side-by-side layout placeholder
 - Fake segment list
-- Monaco Editor for target text editing
 - Basic segment selection & navigation
 - No real Translation Memory yet
 - No file import/export
@@ -20,7 +19,7 @@ Everything runs locally via Tauri — fully offline.
 
 ## Tech stack
 
-- Frontend: React + TypeScript + Tailwind CSS + Monaco Editor
+- Frontend: React + TypeScript + Tailwind CSS
 - Desktop / Backend: Tauri v2 (Rust)
 - Database: planning SQLite
 - License: Apache 2.0
