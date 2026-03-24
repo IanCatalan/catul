@@ -2,7 +2,7 @@
 
 Simple offline CAT tool (Computer-Assisted Translation) built with Tauri + React + TypeScript + Rust + SQLite.
 
-Right now it's a basic proof-of-concept: just a dark-mode editor placeholder using Monaco.
+Right now it's a basic proof-of-concept: just a dark-mode editor placeholder.
 
 ## Current status (March 2026)
 
